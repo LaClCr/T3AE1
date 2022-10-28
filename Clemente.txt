@@ -1,4 +1,9 @@
 Clemente Crespo
 Afegint canvis a clemente.txt
 
+INTEGRANT ELS CANVIS DELS DOS USUARIS:
+
 usuari1
+=======
+usuari2
+
